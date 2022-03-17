@@ -18,3 +18,7 @@
     - <ins>Sum up</ins> (gratuit): https://sumup.fr/factures/?prc=FR17AIR0322-s-FR28AIRB0322-s-FR993GB0322-s-FR69SOLO0322
     - <ins>Henrri</ins> (gratuit): https://www.henrri.com/
     - <ins>Mon autoentreprise.fr</ins> (payant : 7€/mois): https://www.mon-autoentreprise.fr/logiciel-facturation-auto-entrepreneur/
+
+ - Communication :
+    - Canva (https://www.canva.com/) : Création de template pour réseaux sociaux
+    - Développer son compte instagram (YouTube : Tony Neves) : https://www.youtube.com/watch?v=1NE6k54523s&list=PLBmq-AicnW5Nuih2nsnDjLsWjRLF2VQm6
